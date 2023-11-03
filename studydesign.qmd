@@ -1,6 +1,6 @@
 ---
 title: "Study design"
-format: html
+format: pdf
 editor: visual
 bibliography: references.bib
 ---

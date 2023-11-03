@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.3)  3 NOV 2023 11:42
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.3)  3 NOV 2023 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1080,11 +1080,11 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 [1
 
 
-] [2] [3]
+] [2]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.377 {\$}{\$}\dot
+l.344 {\$}{\$}\dot
                   {\textbraceleft}V{\textbraceright}\hbox{\textbraceleft}O{\... 
 Here is how much of TeX's memory you used:
  34864 strings out of 476928
@@ -1093,6 +1093,6 @@ Here is how much of TeX's memory you used:
  56241 multiletter control sequences out of 15000+600000
  564484 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,7n,120p,10906b,410s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,120p,10906b,408s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on studydesign.pdf (3 pages).
+Output written on studydesign.pdf (2 pages).
