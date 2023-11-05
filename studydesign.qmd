@@ -1,9 +1,9 @@
 ---
 title: "Study design"
-format: html
+format: pdf
 editor: visual
 csl: apa.csl
-bibliography: references.bib
+bibliography: studydesign.bib
 ---
 
 Jeg har valgt å ta for meg et tema som omhandler intervalltrening og det maksimale oksygenopptaket (VO~2maks~). VO~2maks~ kan defineres som kroppens maksimale evne til å ta opp og omsette oksygen, altså den maksimale hastigheten på den aerobe energiomsetningen. Flick's likning illustrerer de bestemmede faktorene for VO~2maks~ som er minuttvolum (MV), arteriell oksygen (aO~2~) og venøs oksygen (vO~2~).
@@ -22,6 +22,6 @@ Hver av studiene har valgt seg ut en rekke tester de utførte både pre og post-
 
 Til slutt samler studiene resultatene etter intervensjonen er gjennomført. @astorino2013 brukte en two way analysis of variance with repeated emasures for å undersøke forskjeller i variablene som respons på trening. De resterende studiene har brukt en two way ANOVA with repeated measures for å undersøke forskjellene mellom gruppene og resultatene deres. @matsuo2014 har også gjort en power test for å undesøke hvor stor sample size de må ha for å øke den statistiske styrken i studien sin ved at sannsynligheten for at de resultatene de får er overførbare til dresten av befolkningen. De brukte en priori power test og kom frem til at de måtte ha minst 11 i hver gruppe. De rekrutterte derfor litt flere enn dette da de tok høyde for at noen muligens ville droppe ut underveis. @astorino2013 brukte en one way ANOVA til å undersøke forskjeller i deltakerkarakteristikker ved baseline mellom gruppene for å ha tatt høyde for dette når resultatene skal analyseres.
 
-Alle studiene har kommet fram til at trening med høyere intensitet er bedre for å øke VO~2maks~ enn trening med lavere intensitet. Gruppene som ha trent med lavere intensitet har i de fleste tilfellene også økt sitt maksimale oksygenopptak, men gruppene med høyere intensitet har økt signifikant mer. Det betyr ikke nødvendigvis at den høyeste intensiteten er best. I studien til @matsuo2014 fikk gruppen som trente \<90% VO~2maks~ (HIAT) en større forbedring enn gruppen som trente på 120% VO~2maks~ (SIT). Arbeidstiden til HIAT gruppen var 13 min mens den kun var 5 min, hvilket kan ha spilt en rolle i resultatet. Det er nok lettere å opprettholde intensiteten HIAT-gruppen hadde over lengre tid, som er essensielt for å oppnå de adaptasjonene som er assosiert med et økt maksimalt oksygenopptak. De resterende studiene er enige i at intervalltrening med høy intensitet er å foretrekke fremfor både kontinuerlig trening og intervaller med lavere intensitet for å forbedre VO~2maks~ både hos friske utrente menn og kvinner, og hos moderat trente menn som har de samme fysike trekkene som gruppene som har utført nettopp disse studiene.
+Alle studiene har kommet fram til at trening med høyere intensitet er bedre for å øke VO~2maks~ enn trening med lavere intensitet. Gruppene som ha trent med lavere intensitet har i de fleste tilfellene også økt sitt maksimale oksygenopptak, men gruppene med høyere intensitet har økt signifikant mer. Det betyr ikke nødvendigvis at den høyeste intensiteten er best. I studien til @matsuo2014 fikk gruppen som trente <90% VO~2maks~ (HIAT) en større forbedring enn gruppen som trente på 120% VO~2maks~ (SIT). Arbeidstiden til HIAT gruppen var 13 min mens den kun var 5 min, hvilket kan ha spilt en rolle i resultatet. Det er nok lettere å opprettholde intensiteten HIAT-gruppen hadde over lengre tid, som er essensielt for å oppnå de adaptasjonene som er assosiert med et økt maksimalt oksygenopptak. De resterende studiene er enige i at intervalltrening med høy intensitet er å foretrekke fremfor både kontinuerlig trening og intervaller med lavere intensitet for å forbedre VO~2maks~ både hos friske utrente menn og kvinner, og hos moderat trente menn som har de samme fysike trekkene som gruppene som har utført nettopp disse studiene.
 
 # Refereanser
